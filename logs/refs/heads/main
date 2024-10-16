@@ -1,0 +1,95 @@
+0000000000000000000000000000000000000000 477dedf42a5bce6150415776340ebe78342894ca Văn Thiết <tretrauthiet@gmail.com> 1713414451 +0700	commit (initial): project
+477dedf42a5bce6150415776340ebe78342894ca 477dedf42a5bce6150415776340ebe78342894ca Văn Thiết <tretrauthiet@gmail.com> 1713414469 +0700	Branch: renamed refs/heads/main to refs/heads/main
+477dedf42a5bce6150415776340ebe78342894ca 29043589e48b98978188bd774749decd0fcd5be6 Văn Thiết <tretrauthiet@gmail.com> 1713415267 +0700	commit: up
+29043589e48b98978188bd774749decd0fcd5be6 c148f26737ac3d0da47fa308a0a30894a2a34496 Văn Thiết <tretrauthiet@gmail.com> 1713416443 +0700	commit: update alias
+c148f26737ac3d0da47fa308a0a30894a2a34496 c8e8ffe4d68a9cd28c3fddd2b9325f5daa2b939b Văn Thiết <tretrauthiet@gmail.com> 1713416448 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+c8e8ffe4d68a9cd28c3fddd2b9325f5daa2b939b bbd1b59b73c5535d6cbcfe6d2913b45187e41c2c Văn Thiết <tretrauthiet@gmail.com> 1713417090 +0700	commit: delete .jsx end file
+bbd1b59b73c5535d6cbcfe6d2913b45187e41c2c 52cc4eb99c4a29a8eee51bcc3c4a9bf7a10a2344 Văn Thiết <tretrauthiet@gmail.com> 1713417583 +0700	commit: up
+52cc4eb99c4a29a8eee51bcc3c4a9bf7a10a2344 84780dd4c82d64c60978d6b1a1e3394d90edd825 Văn Thiết <tretrauthiet@gmail.com> 1713418046 +0700	commit: create meta index.html
+84780dd4c82d64c60978d6b1a1e3394d90edd825 b99b7b156c000d3dae20d2c4811e4f6c5d86ce67 Văn Thiết <tretrauthiet@gmail.com> 1713420701 +0700	commit: update
+b99b7b156c000d3dae20d2c4811e4f6c5d86ce67 c0ad746e5b836235f911e9d9e9b7c4ccbce01462 Văn Thiết <tretrauthiet@gmail.com> 1713420704 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+c0ad746e5b836235f911e9d9e9b7c4ccbce01462 b541d3e34c83f10aa08d1257ec167f8807f5258e Văn Thiết <tretrauthiet@gmail.com> 1713431405 +0700	commit: update add delete author
+b541d3e34c83f10aa08d1257ec167f8807f5258e a84af13d0b0448f8bc6728a461ec902e92f97daa Văn Thiết <tretrauthiet@gmail.com> 1713431707 +0700	commit (merge): ok
+a84af13d0b0448f8bc6728a461ec902e92f97daa e9b6e489e2e9bd0e4b3815fd64ade18ceb26fc21 Văn Thiết <tretrauthiet@gmail.com> 1713432412 +0700	commit: url
+e9b6e489e2e9bd0e4b3815fd64ade18ceb26fc21 40678da90c0acc5117c5615b099cbaa3cc2e9cde Văn Thiết <tretrauthiet@gmail.com> 1713433232 +0700	commit: up
+40678da90c0acc5117c5615b099cbaa3cc2e9cde d710a38385963c74315a9928b085c9376c5a2108 Văn Thiết <tretrauthiet@gmail.com> 1713433266 +0700	commit (merge): s
+d710a38385963c74315a9928b085c9376c5a2108 c479ff2149e745c4455913a37b990a6086be181c Văn Thiết <tretrauthiet@gmail.com> 1713433417 +0700	commit: ss
+c479ff2149e745c4455913a37b990a6086be181c 97e833686f2eb112b55de118e0bacc5a181dd32a Văn Thiết <tretrauthiet@gmail.com> 1713438965 +0700	pull --tags origin main: Fast-forward
+97e833686f2eb112b55de118e0bacc5a181dd32a 5604c096db54fd44a8a969a76c8de5c33790cb69 Văn Thiết <tretrauthiet@gmail.com> 1713442938 +0700	commit: update eslintrc
+5604c096db54fd44a8a969a76c8de5c33790cb69 5da1d68105d074757f1c680bfa1eae10f5a43a1d Văn Thiết <tretrauthiet@gmail.com> 1713444314 +0700	commit: update
+5da1d68105d074757f1c680bfa1eae10f5a43a1d e4ed1f9cb165944b1529ca8f966fbf6981b4dbc9 Văn Thiết <tretrauthiet@gmail.com> 1713444567 +0700	commit: update
+e4ed1f9cb165944b1529ca8f966fbf6981b4dbc9 15b5ec2a413fd0d2d91d4638c9996b3f3b1ffb45 Văn Thiết <tretrauthiet@gmail.com> 1713446343 +0700	commit: up
+15b5ec2a413fd0d2d91d4638c9996b3f3b1ffb45 65ed19e87e0cae2cc514811e778d8d5aab4f1b15 Văn Thiết <tretrauthiet@gmail.com> 1713447350 +0700	commit: up
+65ed19e87e0cae2cc514811e778d8d5aab4f1b15 57b127b426111167cc4d74cfc4f06996834e6b74 Văn Thiết <tretrauthiet@gmail.com> 1713447791 +0700	commit: up
+57b127b426111167cc4d74cfc4f06996834e6b74 6b64706b9f8814b95edd4d4e8276490581ffb1d8 Văn Thiết <tretrauthiet@gmail.com> 1713495156 +0700	commit: update crud banner
+6b64706b9f8814b95edd4d4e8276490581ffb1d8 6ff7e32f6353fe5d9eca465572687ca2dbcebe36 Văn Thiết <tretrauthiet@gmail.com> 1713498023 +0700	commit: ok
+6ff7e32f6353fe5d9eca465572687ca2dbcebe36 1526d4b9b81afb074124b23e0f24e3a355e45cde Văn Thiết <tretrauthiet@gmail.com> 1713499882 +0700	commit: up
+1526d4b9b81afb074124b23e0f24e3a355e45cde e018efb19e332d0fe3ffdc2e92075d8e307589eb Văn Thiết <tretrauthiet@gmail.com> 1713499885 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+e018efb19e332d0fe3ffdc2e92075d8e307589eb 2ec9b88f07750022ba5b9e6fd8854106ee34c768 Văn Thiết <tretrauthiet@gmail.com> 1713517095 +0700	commit: up
+2ec9b88f07750022ba5b9e6fd8854106ee34c768 ee394c922a872906616a145715d5c6d91d7152c9 Văn Thiết <tretrauthiet@gmail.com> 1713529846 +0700	commit: remove update banner
+ee394c922a872906616a145715d5c6d91d7152c9 acf34bb2132bbc2d50af1e69744ffc125a784b5d Văn Thiết <tretrauthiet@gmail.com> 1713529963 +0700	commit: ok
+acf34bb2132bbc2d50af1e69744ffc125a784b5d 677fedcdf9a0849019f3c3849ec4cddbbcd0b965 Văn Thiết <tretrauthiet@gmail.com> 1713530247 +0700	commit (merge): up
+677fedcdf9a0849019f3c3849ec4cddbbcd0b965 7713a7f13907e192ebae9888b0fbd4160a0990b3 Văn Thiết <tretrauthiet@gmail.com> 1713530376 +0700	pull --tags origin main: Fast-forward
+7713a7f13907e192ebae9888b0fbd4160a0990b3 7b243d10e0299847143d40133e19a30f5dfa30f6 Văn Thiết <tretrauthiet@gmail.com> 1713618785 +0700	commit: update 20/4/2024
+7b243d10e0299847143d40133e19a30f5dfa30f6 4047a4fef4d03f50d8d733db4d21961d2e8eeede Văn Thiết <tretrauthiet@gmail.com> 1713619662 +0700	commit: update delete account
+4047a4fef4d03f50d8d733db4d21961d2e8eeede 733dccfbacf9f576953fe3c797e77c874d898af3 Văn Thiết <tretrauthiet@gmail.com> 1713675639 +0700	commit: update app
+733dccfbacf9f576953fe3c797e77c874d898af3 bf5247b8115a0933f9649031ee9f90503747fa6a Văn Thiết <tretrauthiet@gmail.com> 1713676616 +0700	commit: fix image
+bf5247b8115a0933f9649031ee9f90503747fa6a b2da114798c5aa4dd8827b4f33c800d29c5b8f08 Văn Thiết <tretrauthiet@gmail.com> 1713692261 +0700	commit: update
+b2da114798c5aa4dd8827b4f33c800d29c5b8f08 128f9ad33d86894a60a5feaf560633efb52defa1 Văn Thiết <tretrauthiet@gmail.com> 1713713156 +0700	commit: big update
+128f9ad33d86894a60a5feaf560633efb52defa1 0c5d679e60dd4be7295fb8f0abb71ba069694da4 Văn Thiết <tretrauthiet@gmail.com> 1713714152 +0700	commit: update bookdetail
+0c5d679e60dd4be7295fb8f0abb71ba069694da4 50a173f5faa2f641e89679f2830e94d79501f4a4 Văn Thiết <tretrauthiet@gmail.com> 1713751981 +0700	commit: update detail book
+50a173f5faa2f641e89679f2830e94d79501f4a4 e456bb08aff37697ccaa8ddeed10b18f113d88ff Văn Thiết <tretrauthiet@gmail.com> 1713753384 +0700	commit: update
+e456bb08aff37697ccaa8ddeed10b18f113d88ff 3c1b288d442229e5383cef0743d5eda405214b99 Văn Thiết <tretrauthiet@gmail.com> 1713755936 +0700	commit: update
+3c1b288d442229e5383cef0743d5eda405214b99 15f7323849a44dd0d2d06fcff2dc28a0f869f32f Văn Thiết <tretrauthiet@gmail.com> 1713766241 +0700	commit: fix bug re-render app
+15f7323849a44dd0d2d06fcff2dc28a0f869f32f b1059ef042005aa9266637a791046c45a2acd1c1 Văn Thiết <tretrauthiet@gmail.com> 1713768164 +0700	commit: up
+b1059ef042005aa9266637a791046c45a2acd1c1 e656df9ab7195b2184f2dcec47e7671a15af500c Văn Thiết <tretrauthiet@gmail.com> 1713769453 +0700	commit: up
+e656df9ab7195b2184f2dcec47e7671a15af500c f4ea16be9c01c462f59cddcaed17890a56e01a9c Văn Thiết <tretrauthiet@gmail.com> 1713769820 +0700	commit: up
+f4ea16be9c01c462f59cddcaed17890a56e01a9c 44c19dfd56a547a626970926a14ea9ad0b2785db Văn Thiết <tretrauthiet@gmail.com> 1713770144 +0700	commit: fix opacity header
+44c19dfd56a547a626970926a14ea9ad0b2785db 0738d29ced0ba766d493b418b7370b993ba442c8 Văn Thiết <tretrauthiet@gmail.com> 1713771899 +0700	commit: update color
+0738d29ced0ba766d493b418b7370b993ba442c8 9661d797c2c1fbc6c70c62753ea0a03b765d2c5c Văn Thiết <tretrauthiet@gmail.com> 1713791595 +0700	commit: up
+9661d797c2c1fbc6c70c62753ea0a03b765d2c5c 4478b9d24fabdc08c66cd074ffa83b9341f9d97e Văn Thiết <tretrauthiet@gmail.com> 1713801862 +0700	commit: up
+4478b9d24fabdc08c66cd074ffa83b9341f9d97e 79ec4202994f498afc0d74eecd5fc556c8e10d27 Văn Thiết <tretrauthiet@gmail.com> 1713801963 +0700	commit: up
+79ec4202994f498afc0d74eecd5fc556c8e10d27 26a4185adf0c59aef4d95d006988e913fea5b3e3 Văn Thiết <tretrauthiet@gmail.com> 1713802011 +0700	commit: add alt image
+26a4185adf0c59aef4d95d006988e913fea5b3e3 6d2c612554d9f5cb63cc5d24dd8d4b81272de7b4 Văn Thiết <tretrauthiet@gmail.com> 1713803012 +0700	commit: ok
+6d2c612554d9f5cb63cc5d24dd8d4b81272de7b4 24284e9112b6a8d2b4c632cba791ad51282aa8b6 Văn Thiết <tretrauthiet@gmail.com> 1713840198 +0700	commit: up
+24284e9112b6a8d2b4c632cba791ad51282aa8b6 f2eea333f6dc98db52db0b3101da647f2c68295f Văn Thiết <tretrauthiet@gmail.com> 1713850711 +0700	commit: up
+f2eea333f6dc98db52db0b3101da647f2c68295f b9ea38227845058c4133822cab70b45cdf77ea2a Văn Thiết <tretrauthiet@gmail.com> 1713853546 +0700	commit: up
+b9ea38227845058c4133822cab70b45cdf77ea2a aca7b5b7b22147374a04ae8a59e031ac7233241c Văn Thiết <tretrauthiet@gmail.com> 1713859967 +0700	commit: update
+aca7b5b7b22147374a04ae8a59e031ac7233241c 0da7903d20de1fd58b00a3066ce3f512a9d4ffe1 Văn Thiết <tretrauthiet@gmail.com> 1713860975 +0700	commit: up
+0da7903d20de1fd58b00a3066ce3f512a9d4ffe1 d132a1a25cb43975d90166f5b56c16bb80fbeb28 Văn Thiết <tretrauthiet@gmail.com> 1713862148 +0700	commit: fix Layout shift
+d132a1a25cb43975d90166f5b56c16bb80fbeb28 7a78c5715e80d81d5cbe68fed479ad292654db30 Văn Thiết <tretrauthiet@gmail.com> 1713867089 +0700	commit: change link avartar
+7a78c5715e80d81d5cbe68fed479ad292654db30 92d1890f2b6c0a795333c5f279541816e993c133 Văn Thiết <tretrauthiet@gmail.com> 1713867655 +0700	commit: up
+92d1890f2b6c0a795333c5f279541816e993c133 b912503a691de2c48b8f5a3245e2528104c05c3e Văn Thiết <tretrauthiet@gmail.com> 1713963187 +0700	commit: up
+b912503a691de2c48b8f5a3245e2528104c05c3e e92ed64a21ffed0027c6a16eb5078573d8a29171 Văn Thiết <tretrauthiet@gmail.com> 1714010369 +0700	commit: create: vercel.json
+e92ed64a21ffed0027c6a16eb5078573d8a29171 169030a7a0dbcb721185044c36b46570f07315bc Văn Thiết <tretrauthiet@gmail.com> 1714010604 +0700	commit: up
+169030a7a0dbcb721185044c36b46570f07315bc 5d8a9f14e3eeb16cf9e43fa66347046677fa22f2 Văn Thiết <tretrauthiet@gmail.com> 1714010831 +0700	commit (merge): ok
+5d8a9f14e3eeb16cf9e43fa66347046677fa22f2 96277a666adfeac5864c647c295c2e44c1c52933 Văn Thiết <tretrauthiet@gmail.com> 1714055576 +0700	commit: update
+96277a666adfeac5864c647c295c2e44c1c52933 f4cc7e7d971885b4372e7b23594a563a7550b03a Văn Thiết <tretrauthiet@gmail.com> 1714055606 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+f4cc7e7d971885b4372e7b23594a563a7550b03a a418870184a494333fdb301d01c5c2803dbc128a Văn Thiết <tretrauthiet@gmail.com> 1714055704 +0700	commit: update
+a418870184a494333fdb301d01c5c2803dbc128a 8e487c283f579bc450568484c71cfc0733c37a26 Văn Thiết <tretrauthiet@gmail.com> 1714197371 +0700	commit: add checkout vnpay
+8e487c283f579bc450568484c71cfc0733c37a26 09659d1bace20d4eea6e6f8777da870db5aeaa6e Văn Thiết <tretrauthiet@gmail.com> 1714222711 +0700	commit: update reponsive
+09659d1bace20d4eea6e6f8777da870db5aeaa6e bb9162ae71a091e724be6ad363c0176fa2b4b777 Văn Thiết <tretrauthiet@gmail.com> 1714275671 +0700	commit: update cart
+bb9162ae71a091e724be6ad363c0176fa2b4b777 6da4ec5196a86ba5ad7992218655b41edeb83edc Văn Thiết <tretrauthiet@gmail.com> 1714302263 +0700	commit: up
+6da4ec5196a86ba5ad7992218655b41edeb83edc 4887aa9076c6a064f1dcff03cecd9a549fa7faa3 Văn Thiết <tretrauthiet@gmail.com> 1714306358 +0700	commit: update
+4887aa9076c6a064f1dcff03cecd9a549fa7faa3 2da44af4b0a3b88189e40d5c0f7d24fd2265702e Văn Thiết <tretrauthiet@gmail.com> 1714306382 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+2da44af4b0a3b88189e40d5c0f7d24fd2265702e e282f923833a2593f3b7de54385ea69fa69759f9 Văn Thiết <tretrauthiet@gmail.com> 1714306753 +0700	commit: fix url import
+e282f923833a2593f3b7de54385ea69fa69759f9 7917c57329f12d724018f51b063f6f4c70376741 Văn Thiết <tretrauthiet@gmail.com> 1714307065 +0700	commit: update
+7917c57329f12d724018f51b063f6f4c70376741 339ff286234b8b3573f265c8ecc3c5e1b1e0b7a4 Văn Thiết <tretrauthiet@gmail.com> 1714409257 +0700	commit: responsive
+339ff286234b8b3573f265c8ecc3c5e1b1e0b7a4 ad680450e5b41d6da2990552261d22794af250c2 Văn Thiết <tretrauthiet@gmail.com> 1714454186 +0700	commit: update list menu
+ad680450e5b41d6da2990552261d22794af250c2 97a3f77a0fbf85f87e6faee41f04c348addfc8ed Văn Thiết <tretrauthiet@gmail.com> 1714461504 +0700	commit: update
+97a3f77a0fbf85f87e6faee41f04c348addfc8ed 48f83fc510877470d6b3553b0b994cf731b5b315 Văn Thiết <tretrauthiet@gmail.com> 1714465538 +0700	commit: responsive
+48f83fc510877470d6b3553b0b994cf731b5b315 002562044f1a03b1968122f820e8a1aae94ac19a Văn Thiết <tretrauthiet@gmail.com> 1714466977 +0700	commit: .
+002562044f1a03b1968122f820e8a1aae94ac19a 29bf949143eadf9e2a66b4312b1fa753479104a4 Văn Thiết <tretrauthiet@gmail.com> 1714467157 +0700	commit: .
+29bf949143eadf9e2a66b4312b1fa753479104a4 339101fe17dbbc4fdb5d6e5d6d985a64965d4632 Văn Thiết <tretrauthiet@gmail.com> 1714467210 +0700	commit: .
+339101fe17dbbc4fdb5d6e5d6d985a64965d4632 038624c0cff0444f65386c50c29e48ee60bbd347 Văn Thiết <tretrauthiet@gmail.com> 1714469850 +0700	commit: .
+038624c0cff0444f65386c50c29e48ee60bbd347 269d5f4615684b9d502f9f842f22714c52ec6232 Văn Thiết <tretrauthiet@gmail.com> 1714478313 +0700	commit: update responsive
+269d5f4615684b9d502f9f842f22714c52ec6232 2f07174ed2329c4c51c349b855d2ccbbf205f791 Văn Thiết <tretrauthiet@gmail.com> 1714546653 +0700	commit: update responsive
+2f07174ed2329c4c51c349b855d2ccbbf205f791 d6242982043a9ab81f3ec521e35abeda5a9da814 Văn Thiết <tretrauthiet@gmail.com> 1714623247 +0700	commit: fix
+d6242982043a9ab81f3ec521e35abeda5a9da814 e723a67f48aee26ee4d3f627ec5fde7d5c374d33 Văn Thiết <tretrauthiet@gmail.com> 1714629413 +0700	commit: delete library
+e723a67f48aee26ee4d3f627ec5fde7d5c374d33 7f3b04e0ccc5a72734b380996e3b51dd3237a5ef Văn Thiết <tretrauthiet@gmail.com> 1714629523 +0700	commit: .
+7f3b04e0ccc5a72734b380996e3b51dd3237a5ef a4494e301b316300141b4425b1e0c58ff6cd1ecd Văn Thiết <tretrauthiet@gmail.com> 1714886706 +0700	commit: update dashboard
+a4494e301b316300141b4425b1e0c58ff6cd1ecd 17e40cdb32a85fcc9e68e6e8ec63619141ec32d1 Văn Thiết <tretrauthiet@gmail.com> 1714886730 +0700	pull --tags origin main: Merge made by the 'ort' strategy.
+17e40cdb32a85fcc9e68e6e8ec63619141ec32d1 50b5099857a489baa7522baadb3705008a9b376d Văn Thiết <tretrauthiet@gmail.com> 1715519361 +0700	commit: update
+50b5099857a489baa7522baadb3705008a9b376d 1f9b56d3f280d18d7f481664b130adcdaf7b3664 Văn Thiết <tretrauthiet@gmail.com> 1715519469 +0700	pull --tags origin main: Fast-forward
+1f9b56d3f280d18d7f481664b130adcdaf7b3664 293817ea5083e1bce255cf22fdd61e43542830d1 Văn Thiết <tretrauthiet@gmail.com> 1715867069 +0700	commit: add http and config
+293817ea5083e1bce255cf22fdd61e43542830d1 89e705a9a26a546207c7e1f41d33611d341c3494 Văn Thiết <tretrauthiet@gmail.com> 1715867306 +0700	pull --tags origin main: Fast-forward
